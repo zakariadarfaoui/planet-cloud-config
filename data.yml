@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+planet:
+  data:
+    response-size: 10
+    airports-url: https://davidmegginson.github.io/ourairports-data/airports.csv
+    countries-url: https://ourairports.com/data/countries.csv
+    flags-server-url: http://localhost:8888/DATA/flag/square/32/
+

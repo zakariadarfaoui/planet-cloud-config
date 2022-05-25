@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+planet:
+  data:
+    response-size: 20
+    airports-url: file:///D:/Dev/data/airports.csv
+    countries-url: file:///D:/Dev/data/countries.csv
+    flags-server-url: http://localhost:8888/DATA/flag/square/32/
